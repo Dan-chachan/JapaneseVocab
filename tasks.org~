@@ -1,0 +1,20 @@
+
+
+* Database editor [1/2]
+- [ ] upozornit na duplikáty
+- [X] mezery na //
+
+* Learning [7/10]
+- [X] exit option
+- [X] next
+- [X] option zobrazit různý kombinace odpovědí
+- [X] custom funkce pro získávání inputu?
+
+- [X] implement custom input funkce
+- [X] funkcionalizovat to
+
+- [ ] pokročilý score?
+- [ ] formátovat score
+- [ ] možnost ukazovat score
+- [X] zapisovat highscore do souboru
+

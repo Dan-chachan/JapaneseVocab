@@ -1,0 +1,61 @@
+month//つき//月
+year//とし//年
+hundred//ひゃく//百
+thousand//せん//千
+wood//き//木
+fire//ひ//火
+gold//かね//金
+water//みず//水
+earth//つち//土
+year//とし//年
+woman//おんな//女
+child//こ//子
+shellfish//かい//貝
+dog//いぬ//犬
+insect//むし//虫
+hand//て//手
+foot//あし//足
+spirit, air//き//気
+power, strength//ちから//力
+ear//みみ//耳
+learn//がく//学
+school, proof of//こう//校
+before, ahead//せん//先
+life//せい//生
+sentence, literature//ぶん//文
+letter, character//じ//字
+book//ほん//本
+name//な//名
+person//ひと//人
+man//おとこ//男
+mouth//くち//口
+eye//め//目
+see//みる//見
+sound, noise//おと//音
+rest//やすむ//休
+correct, justice//ただしい//正
+empty, sky//そら//空
+sky, heaven//てん//天
+rain//あめ//雨
+evening//ゆう//夕
+dog//いぬ//犬
+red//あか//赤
+blue//あお//青
+white//しろ//白
+mountain//やま//山
+river//かわ//川
+forest, woods//もり//森
+grove, forest//はやし//林
+grass, weeds//くさ//草
+flower//はな//花
+bamboo//たけ//竹
+1//いち//一
+2//に//二
+3//さん//三
+4//し//四
+5//ご//五
+6//ろく//六
+7//しち//七
+8//はち//八
+9//きゅう//九
+10//じゅう//十
